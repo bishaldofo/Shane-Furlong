@@ -1,0 +1,91 @@
+<table style="font-family:'Arial',sans-serif; padding: 0;margin: 0;border: 0;border-collapse: collapse; max-width: 340px;" width="340" cellspacing="0" cellpadding="0" bgcolor="white">
+		<tbody>
+			<tr>
+            <td style="vertical-align: top; width: 60px; padding: 0;" width="80" v-align="top">
+               <table style="border-collapse:collapse; width: 100%;" cellspacing="0" cellpadding="0" role="presentation">
+                  <tr>
+                     <td style="padding: 0; width: 100%; vertical-align: top; font-size:0;" v-align="top">
+                        <img src="https://i.ibb.co/GtwVXZp/Click-Rebels-Profile.png" alt="Profile Image" border="0" width="60" style="width: 100%;">
+                     </td>
+                  </tr>
+               </table>
+            </td>
+            <td style="padding: 0; width: 100px; border-right: 1px solid #48CF38; padding-left: 10px; padding-right: 15px; font-size:0; vertical-align: middle;" width="100" v-align="middle">
+               <table style="border-collapse:collapse; width: 100%;" cellspacing="0" cellpadding="0" role="presentation">
+                  <tr>
+                     <td style="padding: 0; font-size:0;">
+                        <p style="font-weight: 700;font-size:14px;color:#35564C;display:block;MARGIN:0;margin-bottom: 5px;line-height: 1;">
+                           Shane Furlong
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td style="padding: 0; font-size:0;">
+                        <p style="font-weight: 400; font-size:11px;color:#000000; MARGIN:0; margin-bottom: 5px; line-height: 1; display:block;" MARGIN="0">
+                           Managing Director
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td style="padding: 0; font-size:0;">
+                        <p style="font-weight: 400;font-size:11px;color:#000000; MARGIN:0; line-height: 1; display:block;" MARGIN="0">
+                           ClickRebels
+                        </p>
+                     </td>
+                  </tr>
+               </table>
+            </td>
+            <td style="padding: 0; padding-left: 20px; width: 80px; font-size: 0; vertical-align: middle;" width="80" v-align="middle">
+               <table style="border-collapse:collapse;font-family:'Arial',sans-serif;" cellspacing="0" cellpadding="0" role="presentation">
+                  <tr>
+                     <td style="padding: 0; font-size:0; padding-bottom: 5px;">
+                        <table style="border-collapse:collapse;" cellspacing="0" cellpadding="0" role="presentation">
+                           <tr>
+                              <td style="padding: 0; padding-right: 10px; font-size:0;">
+                                 <img src="https://i.ibb.co/wJRLRtx/unnamed-2.png" style="width: 12px; background-color: #42CD32;" width="12" alt="">
+                              </td>
+                              <td style="padding: 0; font-size:0;">
+                                 <a href="tel:+353 57 851 1671" style="font-weight: 400;text-decoration: none!important; display:inline-block; font-size: 10px; color: #000;">+353 57 851 1671</a>
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+
+                  <tr>
+                     <td style="padding: 0; font-size:0;padding-bottom: 5px;">
+                        <table style="border-collapse:collapse;" cellspacing="0" cellpadding="0" role="presentation">
+                           <tr>
+                              <td style="padding: 0; padding-right: 10px; font-size:0;">
+                                 <img src="https://i.ibb.co/WpgqR8J/unnamed-3.png" style="width: 12px; background-color: #42CD32;" width="12" alt="">
+                              </td>
+                              <td style="padding: 0; font-size:0;">
+                                 <a href="mailto:shane@clickrebels.com" style="font-weight: 400;text-decoration: none!important; display:inline-block; font-size: 10px; color: #000;" target="_blank">shane@clickrebels.com 
+                                 </a>
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+
+                  <tr>
+                     <td style="padding: 0; font-size:0;">
+                        <table style="border-collapse:collapse;" cellspacing="0" cellpadding="0" role="presentation">
+                           <tr>
+                              <td style="padding: 0; padding-right: 10px; font-size:0;">
+                                 <img src="https://i.ibb.co/XFvbb1t/unnamed-4.png" style="width: 12px; background-color: #42CD32;" width="12" alt="">
+                              </td>
+                              <td style="padding: 0; font-size:0;">
+                                 <a href="https://clickrebels.com/" target="_blank" style="font-weight: 400;text-decoration:none !important;color: #000; font-size: 10px; display:inline-block;" text-decoration="none">
+                                    clickrebels.com
+                                 </a>
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+               </table>
+            </td>
+			</tr>
+		</tbody>
+	</table>
